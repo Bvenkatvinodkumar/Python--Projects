@@ -1,1 +1,1 @@
-
+This project focuses on enhancing clock synchronization accuracy in WSNs by implementing Kalman filter and Double Kalman filter algorithms. By refining the estimation of clock offsets and drifts, our approach aims to improve the reliability of time-sensitive applications in WSNs, such as industrial monitoring and environmental sensing. Through this repository, users can access the implementation of these filtering techniques and explore their performance in terms of synchronization error, convergence time, and resilience to network dynamics.
