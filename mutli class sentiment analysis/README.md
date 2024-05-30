@@ -1,1 +1,1 @@
-
+This project aims to build a robust sentiment analysis model specifically for Telugu language text, classifying it into multiple sentiment categories such as positive, negative, neutral, and mixed. The dataset comprises diverse sources, including social media posts, movie reviews, and news articles, annotated with sentiment labels.
