@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[4]:
-
 
 from pymongo import MongoClient
 
@@ -512,7 +507,7 @@ accuracy = (total_samples - anomaly_count) / total_samples
 print("Accuracy of Isolation Forest:", accuracy)
 
 
-# In[ ]:
+
 
 
 
