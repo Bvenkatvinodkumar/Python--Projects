@@ -1,1 +1,1 @@
-
+This project implements a virtual mouse using hand gesture recognition. The system captures hand gestures via a webcam, processes the images, and uses a trained Convolutional Neural Network (CNN) model to recognize gestures. These gestures are then mapped to mouse actions such as moving the cursor, clicking, and scrolling. The implementation utilizes OpenCV for image processing, TensorFlow for building and training the CNN model, MediaPipe for hand tracking, and PyAutoGUI for controlling the mouse.
